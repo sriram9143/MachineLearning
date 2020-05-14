@@ -1,4 +1,4 @@
-# KNN K-Nearest Neighbors
+# K-Nearest Neighbors(KNN)
 # KNN.ipynd:
         File contains the coding part ie. model creation.
 # bank-additional-full.csv 
