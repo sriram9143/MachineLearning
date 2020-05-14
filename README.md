@@ -1,6 +1,8 @@
 # MachineLearning
-KNN.ipynd file contains the coding part ie. model created.
-bank-additional-full.csv contains the source data used processed by the model.
+# KNN.ipynd:
+        File contains the coding part ie. model created.
+# bank-additional-full.csv 
+        Data file contains the source data used processed by the model.
 
 # Data Set Information:
 
